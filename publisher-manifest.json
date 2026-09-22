@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1dfe411a6ece63adfe8e1c32",
+  "owner": "resxpnwwj",
+  "repo": "page-191673300bf6715eaaae5f02",
+  "title": "V2Panel",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "191673300bf6715eaaae5f02",
+      "a": "V2Panel",
+      "b": "机场官网线路发布页",
+      "entity": "V2Panel",
+      "brand": "V2Panel",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cf549072eea59488837a9547e5c9c442432b194b01442a8976e3e14dcbfec8ad",
+      "content": {
+        "primary_entity": "V2Panel",
+        "keyword1": "V2Panel",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "V2Panel 订阅可在 Clash、Shadowrocket、v2rayN、Surge 等客户端导入，按设备系统选用对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后导入订阅，保持客户端更新即可稳定使用。",
+          "AI_CLOSING_TITLE": "开始配置 V2Panel",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量、3 台到 20 台设备在线需求。旗舰版含 IPLC 专线游戏加速与 7x24 优先工单支持，团队版支持企业定制路由。订阅可在 Clash、Shadowrocket、v2rayN、Surge 等客户端导入使用。",
+          "AI_FAQ_ANSWER_1": "基础版含 100GB 月流量与 3 台设备在线；旗舰版 300GB 与 5 台设备；团队版 1000GB 与 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "V2Panel 提供 Clash、Shadowrocket、v2rayN、Surge 等客户端的订阅导入方式。各系统适配版本不同，按设备平台选用对应客户端即可。",
+          "AI_FAQ_ANSWER_3": "基础版 3 台设备，旗舰版 5 台，团队版 20 台同时在线。多设备场景建议按常用终端数量选择对应档位。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟和售后响应有要求的用户。",
+          "AI_FAQ_ANSWER_5": "月付适合短期使用，年付套餐价格更优惠：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "V2Panel 三档套餐主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "V2Panel 支持哪些客户端导入订阅？",
+          "AI_FAQ_QUESTION_3": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更合适？",
+          "AI_FAQ_TITLE": "套餐与配置常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度对比套餐，再按客户端文档完成订阅配置。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备，团队版 1000GB/20 台设备，按月流量匹配需求。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速与 7x24 优先工单支持，团队版支持企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，周期越长越划算。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "旗舰版线路优化",
+          "AI_FEATURE_TITLE_3": "月付年付弹性周期",
+          "AI_GUIDE_INTRO": "选套餐、核对设备要求、按客户端文档导入订阅，三步即可开始使用 V2Panel。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "V2Panel 提供基础版、旗舰版与团队版套餐，覆盖 100GB 到 1000GB 月流量和 3 到 20 台设备在线场景，旗舰版含 IPLC 专线游戏加速优化。搭配 Clash、Shadowrocket、v2rayN 等客户端导入订阅，即可开始配置使用。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备场景",
+          "AI_HIGHLIGHT_1": "100GB 到 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150 起",
+          "AI_PLANS_INTRO": "基础版满足轻量浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多人高带宽需求，按年付更优惠。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据月流量、在线设备数与线路要求，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与客户端适配说明，确认终端系统在支持范围内。",
+          "AI_STEP_TEXT_3": "按所用客户端文档导入 V2Panel 订阅信息，完成节点更新后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "V2Panel 套餐与订阅配置"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "k62pvj.cn",
+    "host": "k62pvj.cn"
+  },
+  "file_hashes": {
+    "index.html": "8c018867066df8d8dc7ed949d18826aa2f2702bf4eaad3e054f324542eff4e50",
+    "sitemap.xml": "dee1cc1d2c6a17701d9a7f3773266957040a9a40009a1ccb0017e73f25a41c05",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b7e0eb649167d7f89de2b832ab605785d28cf77f86e722542143dbfc7becf6f6",
+    "robots.txt": "413c9009499e2db12bdfcbd2b60007ad3c19eaa50aa057ad22f7f5c5385d1bb1",
+    "64324c0a623fdae8c9a4663df72035da.txt": "873e41be96411e40fa1b8f5fe677b5823934b3a7d51f98798b02e69e3a2ebe42"
+  },
+  "revision": "33c9057c233311309fcc7bc934df11a5d4c745b3c0f9b5e38e1bff1f3e1ce90b"
+}
